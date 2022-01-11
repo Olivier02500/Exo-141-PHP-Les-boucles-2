@@ -32,7 +32,7 @@ for ($carre = $round * $diamond ; $carre >= 10 ; $carre -= $diamond){
 echo "<br><br>";
 
 //Exercice 4
-for ($oval = 1 ; $oval <= 10 ; $oval++){
+for ($oval = 1 ; $oval <= 10 ;$oval +=2){
     echo $oval ."<br>";
 }
 
